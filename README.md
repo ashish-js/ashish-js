@@ -16,4 +16,4 @@
    <img src="https://img.icons8.com/color/48/000000/github.png"/>
   
 </p>
-[![@ashish_js's Holopin board](https://holopin.me/ashish_js)](https://holopin.io/@ashish_js)
+[@ashish_js's Holopin board](https://www.holopin.io/@ashish_js)
